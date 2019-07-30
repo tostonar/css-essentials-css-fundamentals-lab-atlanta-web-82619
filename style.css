@@ -14,7 +14,7 @@ img {
 nav a {
   padding: 0 10px;
   background-color: grey;
-  display: inline;
+  display: inline-block;
   text-align: center;
 }
 figcaption {
