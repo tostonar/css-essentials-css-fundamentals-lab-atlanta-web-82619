@@ -6,8 +6,8 @@ body {
 h1 {
   text-align: center;
 }
-nav li {
-  text-align: center;
+nav {
+  margin: auto;
 }
 img {
   margin: auto;
